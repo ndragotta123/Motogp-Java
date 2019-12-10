@@ -1,4 +1,4 @@
-# Motogp-Java
+# Motogp-Java8
 
 My first Java project was re-coding part of the OOP Motogp Python project into Java.    
 
