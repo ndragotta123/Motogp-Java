@@ -1,4 +1,5 @@
 # Motogp-Java
 
-My first Java project with Motogp and sports bike specifications.  
+My first Java project was re-coding part of the OOP Motogp Python project into Java.    
+
 The Superclass is Racing Bike, with the additional classes inheriting from it.   
