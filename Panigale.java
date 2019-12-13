@@ -1,4 +1,10 @@
+// class named after the Ducati Panigalie V4 with specs mirror'd off of the motorcycle
+
 public class Panigale extends RacingBike {
+
+    // extended RacingBike parent class to inherit the methods
+    //unique information to this sports bike are noted below
+
     public static void main(String[] args) {
         Panigale pan = new Panigale();
         pan.setManufacturer("Ducati");

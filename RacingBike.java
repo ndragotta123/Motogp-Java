@@ -2,8 +2,12 @@ public class RacingBike {
 
     //Information
 
+    // noting that both manufacturer & model are strings
     String manufacturer;
     String model;
+
+    // Adding methods to cover the specifications of each motorcycle
+    // manufacturer, model, engine size, dry weight, and speed
 
     public void setManufacturer(String manufacturer){
         this.manufacturer = manufacturer;

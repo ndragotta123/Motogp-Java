@@ -1,4 +1,11 @@
+// class named after the Honda RC213V with specs mirror'd off of the motorcycle
+
 public class Hon extends RacingBike {
+
+    // extended RacingBike parent class to inherit the methods
+    //unique information to this sports bike are noted below
+    //Motogp bikes have regulations for racing so some information is the same: engine size & dry weight
+
     public static void main(String[] args) {
         Hon hon = new Hon();
         hon.setManufacturer("Honda");

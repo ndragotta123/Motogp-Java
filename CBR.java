@@ -1,4 +1,10 @@
+// class named after the Honda CBR 1000rr with specs mirror'd off of the motorcycle
+
 public class CBR extends RacingBike {
+
+    // extended RacingBike parent class to inherit the methods
+    //unique information to this sports bike are noted below
+
     public static void main(String[] args) {
         CBR cbr = new CBR();
         cbr.setManufacturer("Honda");
